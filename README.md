@@ -22,3 +22,6 @@ En este proyecto se agrego rutas y logica para poder consultar a una BD con Proc
     "book_published": "02-2020"
     }
 ]
+
+
+consumir API aqui: https://api-nodejs-biblioteca.herokuapp.com/api/books
